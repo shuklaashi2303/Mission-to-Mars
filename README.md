@@ -8,7 +8,7 @@ This project is designed to build a web application that scrapes various website
 The webpage outcome includes featured image and mars facts with scrape button to visualize the whole webpage and news title. Also, the pictures of mars hemispheres.
 The difficult part was to centre the data using html css bootstrap in this case.
 
-/Users/sb/Desktop/Mission to mars top.png
+<img width="1440" alt="Mission to mars top" src="https://user-images.githubusercontent.com/79673185/117585963-672d0300-b0e3-11eb-95b0-42ad9d0c8e06.png">
 
-/Users/sb/Desktop/Mission to mars middle.png
-/Users/sb/Desktop/Mission to mars bottom.png
+<img width="1440" alt="Mission to mars middle" src="https://user-images.githubusercontent.com/79673185/117585971-6e541100-b0e3-11eb-9371-f5f77a4cefb8.png">
+<img width="1440" alt="Mission to mars bottom" src="https://user-images.githubusercontent.com/79673185/117585975-7318c500-b0e3-11eb-8d0f-bb0a41309498.png">
